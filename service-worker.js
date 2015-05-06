@@ -2,7 +2,7 @@
 
 importScripts('/scripts/indexdbwrapper.js');
 
-var YAHOO_WEATHER_API_ENDPOINT = 'http://localhost/json.json';
+var YAHOO_WEATHER_API_ENDPOINT = 'http://definebabe.github.io/json.json';
 var KEY_VALUE_STORE_NAME = 'key-value-store';
 
 var idb;
