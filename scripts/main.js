@@ -19,7 +19,7 @@
  *
  */
 
-var API_KEY = 'AIzaSyC-kNZc4HKEtUYeEmIxOPSKRalVZ3-McUc';
+var API_KEY = 'AIzaSyDeza_iX7uhR9jhIULF7hGIoyNRNCgV2bY';
 var PUSH_SERVER_URL = 'https://definebabe.github.io';
 
 function onPushSubscription(pushSubscription) {
