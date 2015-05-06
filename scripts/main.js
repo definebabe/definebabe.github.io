@@ -19,8 +19,8 @@
  *
  */
 
-var API_KEY = 'AIzaSyBBh4ddPa96rQQNxqiq_qQj7sq1JdsNQUQ';
-var PUSH_SERVER_URL = 'https://simple-push-demo.appspot.com';
+var API_KEY = 'AIzaSyC-kNZc4HKEtUYeEmIxOPSKRalVZ3-McUc';
+var PUSH_SERVER_URL = 'https://definebabe.github.io';
 
 function onPushSubscription(pushSubscription) {
   // Here we would normally send the endpoint
